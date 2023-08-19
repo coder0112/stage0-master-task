@@ -3,7 +3,7 @@ package com.epam.conditions;
 import com.epam.util.BaseIOTest;
 import org.junit.jupiter.api.Test;
 
-class DaysInMonthTest extends BaseIOTest {
+class   DaysInMonthTest extends BaseIOTest {
 
     @Test
     void printDaysFebNonLeap() {
